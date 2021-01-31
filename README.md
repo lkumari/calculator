@@ -11,6 +11,8 @@ output that can be presented in a continuous integration tool like
 
 To build, simply:
 
+[![Build Status](https://dev.azure.com/jampanalk/Parts%20Unlimited/_apis/build/status/Parts%20Unlimited-ASP.NET-CI?branchName=master)](https://dev.azure.com/jampanalk/Parts%20Unlimited/_build/latest?definitionId=8&branchName=master)
+
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
